@@ -40,7 +40,7 @@ PC Price Prediction Model is a solution that harnesses machine learning to antic
 
 ## Usage
 
-1. Arrange your dataset as per the format specified in the `data` folder.
+1. Arrange your dataset as per the format specified in the `*.csv` file.
 
 2. Launch the IPython notebook to observe the implementation:
    ```
