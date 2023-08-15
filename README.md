@@ -1,6 +1,4 @@
-Here's the revised README.md tailored for "PC Price Prediction Model":
 
-```
 # PC Price Prediction Model
 
 PC Price Prediction Model is a solution that harnesses machine learning to anticipate the potential price of personal computers. Leveraging the capabilities of `scikit-learn` and data analytics, this model can aid businesses and consumers in understanding and forecasting PC market trends.
@@ -70,5 +68,3 @@ This initiative is protected under the Creative Commons Attribution-NonCommercia
 - A heartfelt thank you to all the collaborators who've participated in the enhancement and refinement of this initiative!
 
 Should you stumble upon any challenges or have queries, don't hesitate to raise an issue or get in touch with the curators. All feedback and contributions are highly valued!
-
-```
